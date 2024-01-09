@@ -1507,8 +1507,8 @@ github.com/imdario/mergo v0.3.16/go.mod h1:WBLT9ZmE3lPoWsEzCh9LPo3TiwVN+ZKEjmz+h
 github.com/inconshreveable/mousetrap v1.0.0/go.mod h1:PxqpIevigyE2G7u3NXJIT2ANytuPF1OarO4DADm73n8=
 github.com/influxdata/go-syslog/v3 v3.0.0 h1:jichmjSZlYK0VMmlz+k4WeOQd7z745YLsvGMqwtYt4I=
 github.com/influxdata/go-syslog/v3 v3.0.0/go.mod h1:tulsOp+CecTAYC27u9miMgq21GqXRW6VdKbOG+QSP4Q=
-github.com/influxdata/influxdb-observability/common v0.5.6 h1:Y0vpIzhHh0k9OH9VTo2gagYW18bSUR3uZqJgY6Nvii0=
-github.com/influxdata/influxdb-observability/common v0.5.6/go.mod h1:ek93NDR7It6j7226Ei04ynhX2jG4wqiPK5NHChxoBdo=
+github.com/influxdata/influxdb-observability/common v0.5.8 h1:nyk4dqnKbPGIyr1vAs6oEsFQEHWi5jkSQ7PtP4v//lc=
+github.com/influxdata/influxdb-observability/common v0.5.8/go.mod h1:aG8A2gbtXbl/P2FePd6QNsCUSOkcvz1n+NL5dJLUO1s=
 github.com/influxdata/influxdb-observability/influx2otel v0.5.6 h1:uA4eKA4FX2xFQ9bkWxKFq6y29jcw0YMVRQykmJc2+bg=
 github.com/influxdata/influxdb-observability/influx2otel v0.5.6/go.mod h1:9gAv3JTcOmUM2x/Ld6YzOG5OgO1mdXoWn1iVJV2Qbsk=
 github.com/influxdata/influxdb-observability/otel2influx v0.5.6 h1:nxBxrlOzHFLDojzM73+0d6s1cgDqOGx7GzhSDkzExF8=

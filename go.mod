@@ -104,7 +104,7 @@ require (
 	github.com/hashicorp/consul/api v1.26.1
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/influxdata/go-syslog/v3 v3.0.0
-	github.com/influxdata/influxdb-observability/common v0.5.6
+	github.com/influxdata/influxdb-observability/common v0.5.8
 	github.com/influxdata/influxdb-observability/influx2otel v0.5.6
 	github.com/influxdata/influxdb-observability/otel2influx v0.5.6
 	github.com/influxdata/line-protocol/v2 v2.2.1
